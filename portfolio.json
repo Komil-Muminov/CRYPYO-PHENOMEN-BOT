@@ -1,0 +1,16 @@
+{
+    "purchases": [
+        {
+            "coin": "TON",
+            "amount": 66.0,
+            "cost": 269.0,
+            "date": "2025-04-01"
+        },
+        {
+            "coin": "ADA",
+            "amount": 141.0,
+            "cost": 95.4,
+            "date": "2025-04-01"
+        }
+    ]
+}
